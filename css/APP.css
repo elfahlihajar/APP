@@ -1,0 +1,41 @@
+.A{
+    text-align: center;
+    text-shadow: 5px   5px 5px rgb(146, 91, 192);
+}
+.add-text{
+    height:150px ;
+    border: 3px solid   rgb(139, 137, 179);
+    margin-top: 25px;
+    border-radius: 15px;
+    padding-top: 100px;
+
+}
+.B{
+    margin-top: 25px;
+}
+#app{
+   margin-top: 20px;
+   width: 400px;
+}
+nav form input{
+    padding: 0px 50px;
+    color: rgb(90, 47, 131);
+    
+}
+.butt{
+    margin-bottom: 25px;
+}
+.icon{
+    display: inline ;
+    float: right;
+    font-size: 20px;
+    color: rgb(20, 192, 135);
+
+}
+span{
+    color: rgb(126, 76, 219);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li span{
+    padding: 5px 30px 5px 10px ;
+}
